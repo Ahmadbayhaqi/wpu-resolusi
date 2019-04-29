@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 vie
   ES 6
   Frmweork ==
+  anguar
+  rect
   fundamental struktur data dasar
 - Php framework
   laravel
