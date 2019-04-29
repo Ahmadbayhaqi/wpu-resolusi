@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 - JavaScript
   ES 6
   Frmweork ==
+  fundamental struktur data dasar
 - Php framework
 - Int
 - TA
