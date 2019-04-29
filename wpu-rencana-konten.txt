@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 - JavaScript
+  ES 6
+  Frmweork ==
 - Php framework
 - Int
 - TA
