@@ -1,8 +1,11 @@
 RENCANA KONTEN WPU
 - JavaScript
+vie
   ES 6
   Frmweork ==
   fundamental struktur data dasar
 - Php framework
-- Int
+  laravel
+ - Int
 - TA
+- phyton
